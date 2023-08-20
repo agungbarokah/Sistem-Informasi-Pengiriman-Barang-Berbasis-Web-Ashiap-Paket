@@ -1,5 +1,6 @@
 # Sistem-Informasi-Pengiriman-Barang-Berbasis-Web-Ashiap-Paket
 
+**Sistem informasi berbasis web menggunakan bahasa pemrograman PHP dan framework bootstrap**   
 TEMA : Sistem Pengiriman Barang (ASHIAP PAKET)  
 KELOMPOK 5 - TUGAS BESAR PEMROGRAMAN WEB DASAR  
   
